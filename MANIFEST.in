@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include USC.md
+include pyproject.toml
+recursive-include usc_analyzer *.py
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
