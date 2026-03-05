@@ -80,7 +80,7 @@ USC (Universal Sekai Chart) files are JSON-based chart files for rhythm games. T
 - **BPM**: Tempo changes
 - **Time Scale Groups**: Note speed control
 
-For detailed format specification, see [USC.md](USC.md).
+For detailed format specification, see [USC.md](https://gist.github.com/Piliman22/83e3886ba34979425df841002754ff3b).
 
 ## API Reference
 
